@@ -1,0 +1,20 @@
+
+Using both the Yang galaxy catalog and Yang group catalog we have created two combined data catalogs. These catalogs are titled bigPetro.csv and bigModel.csv and are stored in the following format by column:
+
+1. Galaxy ID
+2. Galaxy ID in NYU_VAGC
+3. Group ID (0 if not in any group)
+4. Brightest Galaxy in group (1 = True, 2 = False)
+5. Most Massive Galaxy in group (M_stellar) (1 = True, 2 = False)
+6. RA of group
+7. DEC of group
+8. Z of group
+5. group L_{-19.5} log L_{\odot}/h^2; (characteristic group luminosity)
+6. group stellar mass of galaxies brighter than M_r<-19.5      
+7. halo mass1 in log M_halo/ (M_{\odot}/h); (estimated using the ranking of group L_{-19.5})
+8. halo mass2 in log M_halo/ (M_{\odot}/h); (estimated using the ranking of M_stellar)
+9. mean separation d=(1/n)^{1/3} Mpc/h of groups brighter than this; (estimated using the ranking of group L_{-19.5})
+10. mean separation d=(1/n)^{1/3} Mpc/h of groups more massive than this;  (estimated using the ranking of M_stellar)
+11. f_{edge}; edge effect: See Yang et al. 2007 
+12. ID1: 1: mass estimated using the ranking of L_{-19.5}, -1: extrapolation
+13. ID2: 1: mass estimated using the ranking of M_stellar, -1: extrapolation 

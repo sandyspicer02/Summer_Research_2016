@@ -1,0 +1,11 @@
+pkg: numba-0.19.1
+dist: numba-0.19.1-np19py27_0
+home: http://continuum.io/developer-resources.html
+license: BSD
+has_bin: True
+has_lib: False
+has_py: True
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.7.5
+BuildVersion:	11G63b

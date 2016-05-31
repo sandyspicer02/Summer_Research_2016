@@ -1,0 +1,11 @@
+pkg: cryptography-0.9.1
+dist: cryptography-0.9.1-py27_0
+home: https://github.com/pyca/cryptography
+license: Apache
+has_bin: False
+has_lib: False
+has_py: True
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.5.8
+BuildVersion:	9L31a

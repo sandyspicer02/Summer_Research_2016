@@ -1,0 +1,11 @@
+pkg: sip-4.16.5
+dist: sip-4.16.5-py27_0
+home: http://www.riverbankcomputing.com/software/sip/intro
+license: GPL
+has_bin: True
+has_lib: False
+has_py: True
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.7.5
+BuildVersion:	11G63b

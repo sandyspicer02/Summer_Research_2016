@@ -1,0 +1,11 @@
+pkg: cython-0.22.1
+dist: cython-0.22.1-py27_0
+home: http://www.cython.org/
+license: Apache
+has_bin: True
+has_lib: False
+has_py: True
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.5.8
+BuildVersion:	9L31a

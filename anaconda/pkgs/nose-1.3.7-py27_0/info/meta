@@ -1,0 +1,11 @@
+pkg: nose-1.3.7
+dist: nose-1.3.7-py27_0
+home: http://readthedocs.org/docs/nose/
+license: LGPL
+has_bin: True
+has_lib: False
+has_py: True
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.5.8
+BuildVersion:	9L31a

@@ -1,0 +1,53 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "appscript 1.0.1", 
+    "psutil 2.2.1", 
+    "python 2.7*", 
+    "pytz"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/xlwings-0.3.5-py2.7.egg-info", 
+    "lib/python2.7/site-packages/xlwings/__init__.py", 
+    "lib/python2.7/site-packages/xlwings/__init__.pyc", 
+    "lib/python2.7/site-packages/xlwings/_xlmac.py", 
+    "lib/python2.7/site-packages/xlwings/_xlmac.pyc", 
+    "lib/python2.7/site-packages/xlwings/_xlwindows.py", 
+    "lib/python2.7/site-packages/xlwings/_xlwindows.pyc", 
+    "lib/python2.7/site-packages/xlwings/constants.py", 
+    "lib/python2.7/site-packages/xlwings/constants.pyc", 
+    "lib/python2.7/site-packages/xlwings/main.py", 
+    "lib/python2.7/site-packages/xlwings/main.pyc", 
+    "lib/python2.7/site-packages/xlwings/server.py", 
+    "lib/python2.7/site-packages/xlwings/server.pyc", 
+    "lib/python2.7/site-packages/xlwings/tests/__init__.py", 
+    "lib/python2.7/site-packages/xlwings/tests/__init__.pyc", 
+    "lib/python2.7/site-packages/xlwings/tests/test_chart_1.xlsx", 
+    "lib/python2.7/site-packages/xlwings/tests/test_range_1.xlsx", 
+    "lib/python2.7/site-packages/xlwings/tests/test_workbook_1.xlsx", 
+    "lib/python2.7/site-packages/xlwings/tests/test_xlwings.py", 
+    "lib/python2.7/site-packages/xlwings/tests/test_xlwings.pyc", 
+    "lib/python2.7/site-packages/xlwings/utils.py", 
+    "lib/python2.7/site-packages/xlwings/utils.pyc", 
+    "lib/python2.7/site-packages/xlwings/xlwings.bas", 
+    "lib/python2.7/site-packages/xlwings/xlwings_template.xltm"
+  ], 
+  "license": "3-clause BSD", 
+  "license_family": "BSD", 
+  "link": {
+    "source": "/Users/sandyspicer/anaconda/pkgs/xlwings-0.3.5-py27_0", 
+    "type": "hard-link"
+  }, 
+  "name": "xlwings", 
+  "platform": "osx", 
+  "requires": [
+    "appscript 1.0.1", 
+    "psutil 2.2.1", 
+    "python 2.7", 
+    "pytz 2015.2"
+  ], 
+  "url": null, 
+  "version": "0.3.5"
+}

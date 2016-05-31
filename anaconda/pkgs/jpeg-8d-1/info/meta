@@ -1,0 +1,7 @@
+pkg: jpeg-8d
+dist: jpeg-8d-1
+home: http://www.ijg.org/
+license: Custom free software license
+has_bin: False
+has_lib: False
+has_py: False

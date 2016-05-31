@@ -1,0 +1,15 @@
+cffi-1.1.0-py27_0
+cryptography-0.9.1-py27_0
+enum34-1.0.4-py27_0
+idna-2.0-py27_0
+ipaddress-1.0.7-py27_0
+openssl-1.0.1k-1
+pyasn1-0.1.7-py27_0
+pycparser-2.14-py27_0
+python-2.7.10-0
+readline-6.2-2
+setuptools-17.1.1-py27_0
+six-1.9.0-py27_0
+sqlite-3.8.4.1-1
+tk-8.5.18-0
+zlib-1.2.8-0

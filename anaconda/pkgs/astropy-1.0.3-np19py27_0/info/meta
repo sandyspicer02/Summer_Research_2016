@@ -1,0 +1,11 @@
+pkg: astropy-1.0.3
+dist: astropy-1.0.3-np19py27_0
+home: http://www.astropy.org/
+license: BSD
+has_bin: True
+has_lib: False
+has_py: True
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.5.8
+BuildVersion:	9L31a

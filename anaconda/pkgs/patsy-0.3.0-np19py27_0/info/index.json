@@ -1,0 +1,19 @@
+{
+  "arch": "x86_64", 
+  "build": "np19py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "numpy 1.9*", 
+    "python 2.7*", 
+    "six"
+  ], 
+  "license": "BSD License", 
+  "name": "patsy", 
+  "platform": "osx", 
+  "requires": [
+    "numpy 1.9", 
+    "python 2.7", 
+    "six 1.8.0"
+  ], 
+  "version": "0.3.0"
+}

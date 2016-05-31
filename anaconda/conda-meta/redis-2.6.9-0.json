@@ -1,0 +1,21 @@
+{
+  "arch": "x86_64", 
+  "build": "0", 
+  "build_number": 0, 
+  "files": [
+    "bin/redis-benchmark", 
+    "bin/redis-check-aof", 
+    "bin/redis-check-dump", 
+    "bin/redis-cli", 
+    "bin/redis-server"
+  ], 
+  "link": {
+    "source": "/Users/sandyspicer/anaconda/pkgs/redis-2.6.9-0", 
+    "type": "hard-link"
+  }, 
+  "name": "redis", 
+  "platform": "osx", 
+  "requires": [], 
+  "url": null, 
+  "version": "2.6.9"
+}

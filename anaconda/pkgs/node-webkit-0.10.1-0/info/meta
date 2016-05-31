@@ -1,0 +1,11 @@
+pkg: node-webkit-0.10.1
+dist: node-webkit-0.10.1-0
+home: https://github.com/rogerwang/node-webkit
+license: MIT
+has_bin: True
+has_lib: False
+has_py: False
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.7.5
+BuildVersion:	11G63b

@@ -1,0 +1,33 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/funcsigs-0.4-py2.7.egg-info/PKG-INFO", 
+    "lib/python2.7/site-packages/funcsigs-0.4-py2.7.egg-info/SOURCES.txt", 
+    "lib/python2.7/site-packages/funcsigs-0.4-py2.7.egg-info/dependency_links.txt", 
+    "lib/python2.7/site-packages/funcsigs-0.4-py2.7.egg-info/not-zip-safe", 
+    "lib/python2.7/site-packages/funcsigs-0.4-py2.7.egg-info/top_level.txt", 
+    "lib/python2.7/site-packages/funcsigs/__init__.py", 
+    "lib/python2.7/site-packages/funcsigs/__init__.pyc", 
+    "lib/python2.7/site-packages/funcsigs/odict.py", 
+    "lib/python2.7/site-packages/funcsigs/odict.pyc", 
+    "lib/python2.7/site-packages/funcsigs/version.py", 
+    "lib/python2.7/site-packages/funcsigs/version.pyc"
+  ], 
+  "license": "Apache", 
+  "link": {
+    "source": "/Users/sandyspicer/anaconda/pkgs/funcsigs-0.4-py27_0", 
+    "type": "hard-link"
+  }, 
+  "name": "funcsigs", 
+  "platform": "osx", 
+  "requires": [
+    "python 2.7"
+  ], 
+  "url": null, 
+  "version": "0.4"
+}

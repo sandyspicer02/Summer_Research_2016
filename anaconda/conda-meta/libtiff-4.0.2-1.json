@@ -1,0 +1,36 @@
+{
+  "arch": "x86_64", 
+  "build": "1", 
+  "build_number": 1, 
+  "depends": [
+    "jpeg 8d"
+  ], 
+  "files": [
+    "include/tiff.h", 
+    "include/tiffconf.h", 
+    "include/tiffio.h", 
+    "include/tiffio.hxx", 
+    "include/tiffvers.h", 
+    "lib/libtiff.5.dylib", 
+    "lib/libtiff.a", 
+    "lib/libtiff.dylib", 
+    "lib/libtiff.la", 
+    "lib/libtiffxx.5.dylib", 
+    "lib/libtiffxx.a", 
+    "lib/libtiffxx.dylib", 
+    "lib/libtiffxx.la", 
+    "lib/pkgconfig/libtiff-4.pc"
+  ], 
+  "license": "as-is (http://www.libtiff.org/misc.html)", 
+  "link": {
+    "source": "/Users/sandyspicer/anaconda/pkgs/libtiff-4.0.2-1", 
+    "type": "hard-link"
+  }, 
+  "name": "libtiff", 
+  "platform": "osx", 
+  "requires": [
+    "jpeg 8d"
+  ], 
+  "url": null, 
+  "version": "4.0.2"
+}

@@ -1,0 +1,11 @@
+pkg: binstar-0.11.0
+dist: binstar-0.11.0-py27_0
+home: http://binstar.org
+license: BSD
+has_bin: True
+has_lib: False
+has_py: True
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.7.5
+BuildVersion:	11G63b

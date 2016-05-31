@@ -1,0 +1,14 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_1", 
+  "build_number": 1, 
+  "name": "flask", 
+  "platform": "osx", 
+  "requires": [
+    "itsdangerous 0.23", 
+    "jinja2 2.7.1", 
+    "python 2.7", 
+    "werkzeug 0.9.3"
+  ], 
+  "version": "0.10.1"
+}

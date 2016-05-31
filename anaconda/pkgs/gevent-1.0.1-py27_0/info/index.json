@@ -1,0 +1,17 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "greenlet 0.4*", 
+    "python 2.7*"
+  ], 
+  "license": "MIT", 
+  "name": "gevent", 
+  "platform": "osx", 
+  "requires": [
+    "greenlet 0.4.2", 
+    "python 2.7"
+  ], 
+  "version": "1.0.1"
+}

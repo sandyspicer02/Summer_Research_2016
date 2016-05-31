@@ -1,0 +1,19 @@
+==> git log -n1 <==
+commit e37470e14b4537213c579791b7e8ac57009887fb
+Merge: a7a1d6d 680de1e
+Author: malev <marcosvanetta@gmail.com>
+Date:   Thu Jun 4 11:59:06 2015 -0500
+
+    Merge branch 'master' of github.com:Binstar/binstar
+
+==> git describe --tags --dirty <==
+0.11.0
+
+==> git status <==
+# Not currently on any branch.
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	ANACONDA_DIST.txt
+nothing added to commit but untracked files present (use "git add" to track)
+

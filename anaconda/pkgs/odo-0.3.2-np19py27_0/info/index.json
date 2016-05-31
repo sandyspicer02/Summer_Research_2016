@@ -1,0 +1,27 @@
+{
+  "arch": "x86_64", 
+  "build": "np19py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "datashape", 
+    "multipledispatch 0.4*", 
+    "networkx", 
+    "numpy 1.9*", 
+    "pandas", 
+    "python 2.7*", 
+    "toolz"
+  ], 
+  "license": "BSD", 
+  "name": "odo", 
+  "platform": "osx", 
+  "requires": [
+    "datashape 0.4.4", 
+    "multipledispatch 0.4.7", 
+    "networkx 1.9.1", 
+    "numpy 1.9", 
+    "pandas 0.16.0", 
+    "python 2.7", 
+    "toolz 0.7.1"
+  ], 
+  "version": "0.3.2"
+}

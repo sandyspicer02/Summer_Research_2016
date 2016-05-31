@@ -1,0 +1,11 @@
+pkg: hdf5-1.8.15.1
+dist: hdf5-1.8.15.1-1
+home: http://www.hdfgroup.org/HDF5/
+license: BSD-like (http://www.hdfgroup.org/ftp/HDF5/current/src/unpacked/COPYING)
+has_bin: True
+has_lib: False
+has_py: False
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.7.5
+BuildVersion:	11G63b

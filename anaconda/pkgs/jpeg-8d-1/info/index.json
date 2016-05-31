@@ -1,0 +1,9 @@
+{
+  "arch": "x86_64", 
+  "build": "1", 
+  "build_number": 1, 
+  "name": "jpeg", 
+  "platform": "osx", 
+  "requires": [], 
+  "version": "8d"
+}

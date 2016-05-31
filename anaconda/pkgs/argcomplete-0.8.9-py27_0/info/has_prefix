@@ -1,0 +1,3 @@
+bin/activate-global-python-argcomplete
+bin/python-argcomplete-check-easy-install-script
+bin/register-python-argcomplete

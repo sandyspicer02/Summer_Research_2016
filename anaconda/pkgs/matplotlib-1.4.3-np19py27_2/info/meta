@@ -1,0 +1,11 @@
+pkg: matplotlib-1.4.3
+dist: matplotlib-1.4.3-np19py27_2
+home: http://matplotlib.sourceforge.net/
+license: PSF-based (http://matplotlib.sourceforge.net/users/license.html)
+has_bin: False
+has_lib: False
+has_py: True
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.5.8
+BuildVersion:	9L31a

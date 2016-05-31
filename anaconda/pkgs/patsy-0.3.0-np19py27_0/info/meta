@@ -1,0 +1,11 @@
+pkg: patsy-0.3.0
+dist: patsy-0.3.0-np19py27_0
+home: https://github.com/pydata/patsy
+license: BSD License
+has_bin: False
+has_lib: False
+has_py: True
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.7.5
+BuildVersion:	11G63b

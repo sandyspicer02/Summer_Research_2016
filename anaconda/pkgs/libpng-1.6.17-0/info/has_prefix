@@ -1,0 +1,6 @@
+bin/libpng-config
+bin/libpng16-config
+lib/libpng.la
+lib/libpng16.la
+lib/pkgconfig/libpng.pc
+lib/pkgconfig/libpng16.pc

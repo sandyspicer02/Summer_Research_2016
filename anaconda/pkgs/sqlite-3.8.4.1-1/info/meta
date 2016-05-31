@@ -1,0 +1,11 @@
+pkg: sqlite-3.8.4.1
+dist: sqlite-3.8.4.1-1
+home: http://www.sqlite.org/
+license: Public-Domain (http://www.sqlite.org/copyright.html)
+has_bin: True
+has_lib: False
+has_py: False
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.5.8
+BuildVersion:	9L31a

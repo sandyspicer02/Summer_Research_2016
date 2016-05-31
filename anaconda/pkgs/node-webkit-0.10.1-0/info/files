@@ -1,0 +1,72 @@
+bin/node-webkit
+node-webkit/Contents/Frameworks/crash_inspector
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Libraries/ffmpegsumo.so
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/English.lproj/HttpAuth.nib
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/am.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/ar.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/bg.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/bn.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/ca.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/cs.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/da.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/de.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/el.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/en-GB.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/en-US.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/es-419.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/es.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/et.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/fa.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/fi.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/fil.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/fr.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/gu.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/hi.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/hr.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/hu.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/icudtl.dat
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/id.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/it.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/iw.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/ja.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/kn.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/ko.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/lt.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/lv.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/ml.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/mr.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/ms.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/nl.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/no.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/nw.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/pl.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/pt-BR.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/pt-PT.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/ro.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/ru.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/sk.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/sl.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/sr.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/sv.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/sw.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/ta.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/te.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/th.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/tr.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/uk.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/vi.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/zh-CN.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/Resources/zh-TW.pak
+node-webkit/Contents/Frameworks/node-webkit Framework.framework/node-webkit Framework
+node-webkit/Contents/Frameworks/node-webkit Helper EH.app/Contents/Info.plist
+node-webkit/Contents/Frameworks/node-webkit Helper EH.app/Contents/MacOS/node-webkit Helper EH
+node-webkit/Contents/Frameworks/node-webkit Helper EH.app/Contents/PkgInfo
+node-webkit/Contents/Frameworks/node-webkit Helper NP.app/Contents/Info.plist
+node-webkit/Contents/Frameworks/node-webkit Helper NP.app/Contents/MacOS/node-webkit Helper NP
+node-webkit/Contents/Frameworks/node-webkit Helper NP.app/Contents/PkgInfo
+node-webkit/Contents/Frameworks/node-webkit Helper.app/Contents/Info.plist
+node-webkit/Contents/Frameworks/node-webkit Helper.app/Contents/MacOS/node-webkit Helper
+node-webkit/Contents/Frameworks/node-webkit Helper.app/Contents/PkgInfo
+node-webkit/Contents/MacOS/node-webkit
+node-webkit/Contents/PkgInfo
+node-webkit/Contents/Resources/nw.icns

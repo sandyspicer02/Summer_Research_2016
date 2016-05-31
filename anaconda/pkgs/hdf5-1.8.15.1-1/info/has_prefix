@@ -1,0 +1,4 @@
+bin/h5cc
+lib/libhdf5.la
+lib/libhdf5.settings
+lib/libhdf5_hl.la

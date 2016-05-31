@@ -1,0 +1,14 @@
+{
+  "arch": "x86_64", 
+  "build": "3", 
+  "build_number": 3, 
+  "depends": [
+    "freetype    >=2.5.2", 
+    "openssl"
+  ], 
+  "license": "LGPL", 
+  "name": "qt", 
+  "platform": "osx", 
+  "subdir": "osx-64", 
+  "version": "4.8.6"
+}

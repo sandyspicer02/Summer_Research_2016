@@ -1,0 +1,19 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_1", 
+  "build_number": 1, 
+  "depends": [
+    "cryptography", 
+    "python 2.7*", 
+    "six"
+  ], 
+  "license": "Apache", 
+  "name": "pyopenssl", 
+  "platform": "osx", 
+  "requires": [
+    "cryptography 0.9.1", 
+    "python 2.7", 
+    "six 1.9.0"
+  ], 
+  "version": "0.15.1"
+}

@@ -1,0 +1,11 @@
+pkg: multipledispatch-0.4.7
+dist: multipledispatch-0.4.7-py27_0
+home: http://github.com/mrocklin/multipledispatch/
+license: BSD
+has_bin: False
+has_lib: False
+has_py: True
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.5.8
+BuildVersion:	9L31a

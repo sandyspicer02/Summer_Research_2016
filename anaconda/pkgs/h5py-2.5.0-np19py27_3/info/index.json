@@ -1,0 +1,22 @@
+{
+  "arch": "x86_64", 
+  "build": "np19py27_3", 
+  "build_number": 3, 
+  "depends": [
+    "hdf5 1.8.15.1", 
+    "numpy 1.9*", 
+    "python 2.7*", 
+    "six"
+  ], 
+  "license": "3-clause BSD (http://opensource.org/licenses/bsd-license.php)", 
+  "license_family": "BSD", 
+  "name": "h5py", 
+  "platform": "osx", 
+  "requires": [
+    "hdf5 1.8.15.1", 
+    "numpy 1.9", 
+    "python 2.7", 
+    "six 1.9.0"
+  ], 
+  "version": "2.5.0"
+}

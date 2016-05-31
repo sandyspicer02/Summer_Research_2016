@@ -1,0 +1,11 @@
+pkg: zeromq-4.0.5
+dist: zeromq-4.0.5-0
+home: http://zeromq.org
+license: LGPL
+has_bin: True
+has_lib: False
+has_py: False
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.5.8
+BuildVersion:	9L31a

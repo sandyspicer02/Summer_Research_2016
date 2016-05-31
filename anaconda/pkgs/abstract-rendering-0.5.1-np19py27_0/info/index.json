@@ -1,0 +1,17 @@
+{
+  "arch": "x86_64", 
+  "build": "np19py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "numpy 1.9*", 
+    "python 2.7*"
+  ], 
+  "license": "3rd-clause BSD (https://github.com/JosephCottam/AbstractRendering/blob/master/LICENSE)", 
+  "name": "abstract-rendering", 
+  "platform": "osx", 
+  "requires": [
+    "numpy 1.9", 
+    "python 2.7"
+  ], 
+  "version": "0.5.1"
+}

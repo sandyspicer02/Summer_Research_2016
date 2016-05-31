@@ -1,0 +1,27 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "clyent", 
+    "python 2.7*", 
+    "python-dateutil", 
+    "pytz", 
+    "pyyaml", 
+    "requests", 
+    "setuptools"
+  ], 
+  "license": "BSD", 
+  "name": "binstar", 
+  "platform": "osx", 
+  "requires": [
+    "clyent 0.3.4", 
+    "python 2.7", 
+    "python-dateutil 2.4.2", 
+    "pytz 2015.4", 
+    "pyyaml 3.11", 
+    "requests 2.7.0", 
+    "setuptools 17.0"
+  ], 
+  "version": "0.11.0"
+}

@@ -1,0 +1,12 @@
+prefix="/Users/sandyspicer/anaconda"
+exec_prefix="/Users/sandyspicer/anaconda"
+libdir="/Users/sandyspicer/anaconda/lib"
+includedir="/Users/sandyspicer/anaconda/include/freetype2"
+
+Name: FreeType 2
+Description: A free, high-quality, and portable font engine.
+Version: 17.1.11
+Requires:
+Libs: -L${libdir} -lfreetype
+Libs.private: -lz -lbz2 -lpng16 
+Cflags: -I${includedir}

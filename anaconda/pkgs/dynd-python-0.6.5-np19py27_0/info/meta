@@ -1,0 +1,11 @@
+pkg: dynd-python-0.6.5
+dist: dynd-python-0.6.5-np19py27_0
+home: https://github.com/ContinuumIO/dynd-python
+license: BSD
+has_bin: False
+has_lib: False
+has_py: True
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.5.8
+BuildVersion:	9L31a

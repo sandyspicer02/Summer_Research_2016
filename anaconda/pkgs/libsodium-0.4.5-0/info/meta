@@ -1,0 +1,7 @@
+pkg: libsodium-0.4.5
+dist: libsodium-0.4.5-0
+home: http://libsodium.org
+license: MIT
+has_bin: False
+has_lib: False
+has_py: False

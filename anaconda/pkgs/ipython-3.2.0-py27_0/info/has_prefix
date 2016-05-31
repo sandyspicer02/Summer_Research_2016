@@ -1,0 +1,13 @@
+bin/ipcluster
+bin/ipcluster2
+bin/ipcontroller
+bin/ipcontroller2
+bin/ipengine
+bin/ipengine2
+bin/iplogger
+bin/iptest
+bin/iptest2
+bin/ipython
+bin/ipython2
+bin/irunner
+bin/pycolor

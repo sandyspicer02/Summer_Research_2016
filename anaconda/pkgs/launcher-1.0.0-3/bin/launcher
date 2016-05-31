@@ -1,0 +1,4 @@
+#!/bin/sh
+
+open /opt/anaconda1anaconda2anaconda3/Launcher.app --args -- $@
+

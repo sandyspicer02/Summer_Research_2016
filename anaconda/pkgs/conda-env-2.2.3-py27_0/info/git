@@ -1,0 +1,19 @@
+==> git log -n1 <==
+commit a1394bc580dd1556d21db10267d3c78e9b64b45a
+Merge: 81ea4b7 2dd4340
+Author: malev <marcosvanetta@gmail.com>
+Date:   Thu Jun 18 15:44:37 2015 -0500
+
+    2.2.3 version. conda env create bug fixes
+
+==> git describe --tags --dirty <==
+v2.2.3
+
+==> git status <==
+# Not currently on any branch.
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	ANACONDA_DIST.txt
+nothing added to commit but untracked files present (use "git add" to track)
+

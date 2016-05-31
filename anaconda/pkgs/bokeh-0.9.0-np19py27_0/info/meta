@@ -1,0 +1,11 @@
+pkg: bokeh-0.9.0
+dist: bokeh-0.9.0-np19py27_0
+home: https://github.com/ContinuumIO/Bokeh
+license: 3-clause BSD
+has_bin: True
+has_lib: False
+has_py: True
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.7.5
+BuildVersion:	11G63b

@@ -1,0 +1,18 @@
+==> git log -n1 <==
+commit 06832891870119984c6a5404bc7f7a471f43b99c
+Author: Jeff Reback <jeff@reback.net>
+Date:   Sat Jun 13 06:45:34 2015 -0400
+
+    RLS: v0.16.2 final
+
+==> git describe --tags --dirty <==
+v0.16.2
+
+==> git status <==
+# HEAD detached at v0.16.2
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	ANACONDA_DIST.txt
+nothing added to commit but untracked files present (use "git add" to track)
+

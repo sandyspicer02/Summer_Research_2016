@@ -1,0 +1,11 @@
+pkg: blaze-core-0.8.0
+dist: blaze-core-0.8.0-np19py27_0
+home: http://blaze.pydata.org
+license: BSD
+has_bin: False
+has_lib: False
+has_py: True
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.7.5
+BuildVersion:	11G63b

@@ -1,0 +1,4 @@
+bin/sphinx-apidoc
+bin/sphinx-autogen
+bin/sphinx-build
+bin/sphinx-quickstart

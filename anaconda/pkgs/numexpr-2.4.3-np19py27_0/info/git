@@ -1,0 +1,20 @@
+==> git log -n1 <==
+commit 937f553c4b09bbf72d9ad142c8c587c44a51d436
+Author: Francesc Alted <faltet@gmail.com>
+Date:   Mon Apr 27 17:46:27 2015 +0200
+
+    Getting ready for release 2.4.3
+
+==> git describe --tags --dirty <==
+v2.4.3
+
+==> git status <==
+# Not currently on any branch.
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	ANACONDA_DIST.txt
+#	build/
+#	numexpr/version.pyc
+nothing added to commit but untracked files present (use "git add" to track)
+

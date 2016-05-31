@@ -1,0 +1,24 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "freetype 2.5.2", 
+    "jpeg 8d", 
+    "libtiff 4.0.2", 
+    "python 2.7*", 
+    "zlib 1.2*"
+  ], 
+  "license": "PIL license", 
+  "license_family": "Other", 
+  "name": "pillow", 
+  "platform": "osx", 
+  "requires": [
+    "freetype 2.5.2", 
+    "jpeg 8d", 
+    "libtiff 4.0.2", 
+    "python 2.7", 
+    "zlib 1.2.8"
+  ], 
+  "version": "2.8.2"
+}

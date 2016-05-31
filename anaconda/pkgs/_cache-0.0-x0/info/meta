@@ -1,0 +1,11 @@
+pkg: _cache-0.0
+dist: _cache-0.0-x0
+home: None
+license: None
+has_bin: False
+has_lib: False
+has_py: False
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.7.5
+BuildVersion:	11G63b

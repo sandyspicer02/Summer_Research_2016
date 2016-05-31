@@ -1,0 +1,7 @@
+pkg: openpyxl-1.8.5
+dist: openpyxl-1.8.5-py27_0
+home: http://openpyxl.readthedocs.org
+license: MIT/Expat
+has_bin: False
+has_lib: False
+has_py: True

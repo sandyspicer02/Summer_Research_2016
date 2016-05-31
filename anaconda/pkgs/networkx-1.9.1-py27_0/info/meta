@@ -1,0 +1,11 @@
+pkg: networkx-1.9.1
+dist: networkx-1.9.1-py27_0
+home: http://networkx.lanl.gov/
+license: BSD
+has_bin: False
+has_lib: False
+has_py: True
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.5.8
+BuildVersion:	9L31a

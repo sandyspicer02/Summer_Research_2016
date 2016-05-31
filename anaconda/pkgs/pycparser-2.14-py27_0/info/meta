@@ -1,0 +1,11 @@
+pkg: pycparser-2.14
+dist: pycparser-2.14-py27_0
+home: https://github.com/eliben/pycparser
+license: BSD
+has_bin: False
+has_lib: False
+has_py: True
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.5.8
+BuildVersion:	9L31a

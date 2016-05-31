@@ -1,0 +1,11 @@
+pkg: sphinx_rtd_theme-0.1.7
+dist: sphinx_rtd_theme-0.1.7-py27_0
+home: https://github.com/snide/sphinx_rtd_theme/
+license: BSD
+has_bin: False
+has_lib: False
+has_py: True
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.5.8
+BuildVersion:	9L31a

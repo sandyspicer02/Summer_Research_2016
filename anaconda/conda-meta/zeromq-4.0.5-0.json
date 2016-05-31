@@ -1,0 +1,30 @@
+{
+  "arch": "x86_64", 
+  "build": "0", 
+  "build_number": 0, 
+  "depends": [
+    "libsodium 0.4.5"
+  ], 
+  "files": [
+    "bin/curve_keygen", 
+    "include/zmq.h", 
+    "include/zmq_utils.h", 
+    "lib/libzmq.4.dylib", 
+    "lib/libzmq.a", 
+    "lib/libzmq.dylib", 
+    "lib/libzmq.la", 
+    "lib/pkgconfig/libzmq.pc"
+  ], 
+  "license": "LGPL", 
+  "link": {
+    "source": "/Users/sandyspicer/anaconda/pkgs/zeromq-4.0.5-0", 
+    "type": "hard-link"
+  }, 
+  "name": "zeromq", 
+  "platform": "osx", 
+  "requires": [
+    "libsodium 0.4.5"
+  ], 
+  "url": null, 
+  "version": "4.0.5"
+}

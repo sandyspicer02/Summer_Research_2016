@@ -1,0 +1,44 @@
+#!/bin/bash
+
+if [ "$1" == "-lflag" ]; then
+    echo -ldynd_v0.6.5
+    exit 0
+fi
+
+if [ "$1" == "-libname" ]; then
+    echo libdynd_v0.6.5.dylib
+    exit 0
+fi
+
+if [ "$1" == "-libpath" ]; then
+    # This script should be in .../bin relative to .../lib.
+    # Note this isn't robust against symbolic links, etc.
+    DIR=`dirname $0`
+    echo `dirname ${DIR}`/lib/libdynd_v0.6.5.dylib
+    exit 0
+fi
+
+if [ "$1" == "-includedir" ]; then
+    # This script should be in .../bin relative to .../include.
+    # Note this isn't robust against symbolic links, etc.
+    DIR=`dirname $0`
+    echo `dirname ${DIR}`/include
+    exit 0
+fi
+
+if [ "$1" == "-version" ]; then
+    echo v0.6.5
+    exit 0
+fi
+
+echo Usage: $0 OPTION
+echo Print information for linking libdynd.
+echo
+echo Options:
+echo   -lflag       Prints the linker option to link libdynd.
+echo   -libname     Prints the name of the libdynd library.
+echo   -libpath     Prints the full path of the libdynd library.
+echo   -includedir  Prints the directory with the libdynd include files.
+echo   -version     Prints the version of libdynd.
+exit 1
+

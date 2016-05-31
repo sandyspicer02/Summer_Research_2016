@@ -1,0 +1,8 @@
+include/jconfig.h
+include/jerror.h
+include/jmorecfg.h
+include/jpeglib.h
+lib/libjpeg.8.dylib
+lib/libjpeg.a
+lib/libjpeg.dylib
+lib/libjpeg.la

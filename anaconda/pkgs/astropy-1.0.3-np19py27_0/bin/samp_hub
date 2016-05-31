@@ -1,0 +1,6 @@
+#!/opt/anaconda1anaconda2anaconda3/bin/python
+if __name__ == '__main__':
+    import sys
+    from astropy.vo.samp.hub_script import hub_script
+
+    sys.exit(hub_script())

@@ -1,0 +1,11 @@
+pkg: h5py-2.5.0
+dist: h5py-2.5.0-np19py27_3
+home: http://code.google.com/p/h5py/
+license: 3-clause BSD (http://opensource.org/licenses/bsd-license.php)
+has_bin: False
+has_lib: False
+has_py: True
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.7.5
+BuildVersion:	11G63b

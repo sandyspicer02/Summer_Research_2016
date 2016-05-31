@@ -1,0 +1,11 @@
+pkg: zlib-1.2.8
+dist: zlib-1.2.8-0
+home: http://zlib.net/
+license: zlib (http://zlib.net/zlib_license.html)
+has_bin: False
+has_lib: False
+has_py: False
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.5.8
+BuildVersion:	9L31a

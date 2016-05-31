@@ -1,0 +1,37 @@
+{
+  "arch": "x86_64", 
+  "build": "np19py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "cytoolz", 
+    "datashape", 
+    "flask 0.10.1", 
+    "multipledispatch 0.4*", 
+    "numpy 1.9*", 
+    "odo 0.3.2", 
+    "pandas", 
+    "psutil 2.2.1", 
+    "python 2.7*", 
+    "requests", 
+    "sqlalchemy", 
+    "toolz"
+  ], 
+  "license": "BSD", 
+  "name": "blaze-core", 
+  "platform": "osx", 
+  "requires": [
+    "cytoolz 0.7.2", 
+    "datashape 0.4.4", 
+    "flask 0.10.1", 
+    "multipledispatch 0.4.7", 
+    "numpy 1.9", 
+    "odo 0.3.2", 
+    "pandas 0.16.0", 
+    "psutil 2.2.1", 
+    "python 2.7", 
+    "requests 2.6.2", 
+    "sqlalchemy 1.0.1", 
+    "toolz 0.7.1"
+  ], 
+  "version": "0.8.0"
+}

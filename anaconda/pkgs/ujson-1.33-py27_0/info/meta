@@ -1,0 +1,7 @@
+pkg: ujson-1.33
+dist: ujson-1.33-py27_0
+home: http://www.esn.me/
+license: BSD
+has_bin: False
+has_lib: False
+has_py: True

@@ -1,0 +1,11 @@
+pkg: sockjs-tornado-1.0.1
+dist: sockjs-tornado-1.0.1-py27_0
+home: http://github.com/mrjoes/sockjs-tornado/
+license: MIT
+has_bin: False
+has_lib: False
+has_py: True
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.7.5
+BuildVersion:	11G63b

@@ -1,0 +1,25 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/decorator-3.4.2-py2.7.egg-info", 
+    "lib/python2.7/site-packages/decorator.py", 
+    "lib/python2.7/site-packages/decorator.pyc"
+  ], 
+  "license": "BSD", 
+  "link": {
+    "source": "/Users/sandyspicer/anaconda/pkgs/decorator-3.4.2-py27_0", 
+    "type": "hard-link"
+  }, 
+  "name": "decorator", 
+  "platform": "osx", 
+  "requires": [
+    "python 2.7"
+  ], 
+  "url": null, 
+  "version": "3.4.2"
+}

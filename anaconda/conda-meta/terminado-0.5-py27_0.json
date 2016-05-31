@@ -1,0 +1,41 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "depends": [
+    "ptyprocess 0.4", 
+    "python 2.7*", 
+    "tornado 4.1"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/terminado-0.5-py2.7.egg-info", 
+    "lib/python2.7/site-packages/terminado/__init__.py", 
+    "lib/python2.7/site-packages/terminado/__init__.pyc", 
+    "lib/python2.7/site-packages/terminado/_static/terminado.js", 
+    "lib/python2.7/site-packages/terminado/management.py", 
+    "lib/python2.7/site-packages/terminado/management.pyc", 
+    "lib/python2.7/site-packages/terminado/tests/__init__.py", 
+    "lib/python2.7/site-packages/terminado/tests/__init__.pyc", 
+    "lib/python2.7/site-packages/terminado/tests/basic_test.py", 
+    "lib/python2.7/site-packages/terminado/tests/basic_test.pyc", 
+    "lib/python2.7/site-packages/terminado/uimod_embed.js", 
+    "lib/python2.7/site-packages/terminado/uimodule.py", 
+    "lib/python2.7/site-packages/terminado/uimodule.pyc", 
+    "lib/python2.7/site-packages/terminado/websocket.py", 
+    "lib/python2.7/site-packages/terminado/websocket.pyc"
+  ], 
+  "license": "BSD", 
+  "link": {
+    "source": "/Users/sandyspicer/anaconda/pkgs/terminado-0.5-py27_0", 
+    "type": "hard-link"
+  }, 
+  "name": "terminado", 
+  "platform": "osx", 
+  "requires": [
+    "ptyprocess 0.4", 
+    "python 2.7", 
+    "tornado 4.1"
+  ], 
+  "url": null, 
+  "version": "0.5"
+}

@@ -1,0 +1,11 @@
+pkg: spyder-app-2.3.5.2
+dist: spyder-app-2.3.5.2-py27_0
+home: http://code.google.com/p/spyderlib/
+license: MIT
+has_bin: False
+has_lib: False
+has_py: False
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.5.8
+BuildVersion:	9L31a

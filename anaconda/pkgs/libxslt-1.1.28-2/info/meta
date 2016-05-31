@@ -1,7 +1,0 @@
-pkg: libxslt-1.1.28
-dist: libxslt-1.1.28-2
-home: http://xmlsoft.org/
-license: MIT
-has_bin: True
-has_lib: False
-has_py: False

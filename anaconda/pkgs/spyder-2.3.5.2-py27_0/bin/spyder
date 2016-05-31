@@ -1,3 +1,0 @@
-#!/bin/bash /opt/anaconda1anaconda2anaconda3/bin/python.app
-from spyderlib import start_app
-start_app.main()

@@ -1,7 +1,0 @@
-bin/fits2bitmap
-bin/fitscheck
-bin/fitsdiff
-bin/fitsheader
-bin/samp_hub
-bin/volint
-bin/wcslint

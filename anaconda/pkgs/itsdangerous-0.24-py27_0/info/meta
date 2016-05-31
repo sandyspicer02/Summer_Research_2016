@@ -1,7 +1,0 @@
-pkg: itsdangerous-0.24
-dist: itsdangerous-0.24-py27_0
-home: http://github.com/mitsuhiko/itsdangerous
-license: BSD License
-has_bin: False
-has_lib: False
-has_py: True

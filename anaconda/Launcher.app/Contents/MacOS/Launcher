@@ -1,3 +1,0 @@
-#!/bin/sh
-export PATH=/Users/sandyspicer/anaconda/bin:"$PATH"
-/Users/sandyspicer/anaconda/node-webkit/Contents/MacOS/node-webkit /Users/sandyspicer/anaconda/node-webkit/launcher $@

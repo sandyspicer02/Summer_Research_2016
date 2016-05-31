@@ -1,7 +1,0 @@
-pkg: ssl_match_hostname-3.4.0.2
-dist: ssl_match_hostname-3.4.0.2-py27_0
-home: http://bitbucket.org/brandon/backports.ssl_match_hostname
-license: PSF
-has_bin: False
-has_lib: False
-has_py: True

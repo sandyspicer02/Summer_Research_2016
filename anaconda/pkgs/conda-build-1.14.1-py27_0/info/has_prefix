@@ -1,9 +1,0 @@
-bin/conda-build
-bin/conda-convert
-bin/conda-develop
-bin/conda-index
-bin/conda-inspect
-bin/conda-metapackage
-bin/conda-pipbuild
-bin/conda-sign
-bin/conda-skeleton

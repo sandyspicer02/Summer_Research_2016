@@ -1,1 +1,0 @@
-<p>Installing app <%= @name %></p>

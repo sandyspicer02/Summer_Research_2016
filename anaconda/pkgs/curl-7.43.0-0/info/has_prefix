@@ -1,3 +1,0 @@
-bin/curl-config
-lib/libcurl.la
-lib/pkgconfig/libcurl.pc

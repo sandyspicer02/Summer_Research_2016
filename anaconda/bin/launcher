@@ -1,4 +1,0 @@
-#!/bin/sh
-
-open /Users/sandyspicer/anaconda/Launcher.app --args -- $@
-

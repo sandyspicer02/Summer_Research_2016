@@ -1,6 +1,0 @@
-<div class="error-no-apps">
-  <div class="alert alert-error">
-    <p>No apps found.</p>
-    <p>Check your conda configuration using the conda info command</p>
-  </div>
-</div>

@@ -1,8 +1,0 @@
-bin/curve_keygen
-include/zmq.h
-include/zmq_utils.h
-lib/libzmq.4.dylib
-lib/libzmq.a
-lib/libzmq.dylib
-lib/libzmq.la
-lib/pkgconfig/libzmq.pc

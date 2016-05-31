@@ -1,7 +1,0 @@
-pkg: pycosat-0.6.1
-dist: pycosat-0.6.1-py27_0
-home: https://github.com/ilanschnell/pycosat
-license: MIT
-has_bin: False
-has_lib: False
-has_py: True

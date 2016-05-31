@@ -1,4 +1,0 @@
-#!/bin/sh
-
-/opt/anaconda1anaconda2anaconda3/node-webkit/Contents/MacOS/node-webkit "$@"
-
